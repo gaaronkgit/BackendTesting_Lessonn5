@@ -1,0 +1,4 @@
+Получение списка продуктов по категории - GetCategoryPositiveTest
+Создание продукта - CreateProductPositiveTest
+Получение продукта по ID - GetProductPositiveTest
+Удаление продукта по ID - DeleteProductTest
